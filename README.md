@@ -1,4 +1,14 @@
 # stop-being-a-git
+
 A git basics tutorial
 
-I am a change from `origin`
+___
+
+## Slides
+
+Slides can be found [here](https://slides.com/guywarburg/stop-being-a-git)
+
+___
+### Participants
+
+* @guywarburg
