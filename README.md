@@ -8,6 +8,7 @@ ___
 
 Slides can be found [here](https://slides.com/guywarburg/stop-being-a-git)
 
+a
 ___
 ### Participants
 
