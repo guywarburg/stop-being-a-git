@@ -13,4 +13,10 @@ Slides can be found [here](https://slides.com/guywarburg/stop-being-a-git)
 ### Participants
 
 - @guywarburg
-- @mayaleiberma
+- @oltiy
+- @reuvenz1993
+- @adi-bzn
+- @mayaliberman
+- @reuvenz1993
+- @asaftvitoga
+- @moriahpopo
