@@ -13,7 +13,7 @@ Slides can be found [here](https://slides.com/guywarburg/stop-being-a-git)
 ### Participants
 
 - @guywarburg
-- @oltiy
+- @oltiy  [here](https://github.com/oltiy/)
 - @reuvenz1993
 - @adi-bzn
 - @mayaliberman
