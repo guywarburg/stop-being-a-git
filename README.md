@@ -16,7 +16,7 @@ Slides can be found [here](https://slides.com/guywarburg/stop-being-a-git)
 - @oltiy
 - @reuvenz1993
 - @adi-bzn
-- @mayaliberman
+- [@mayaliberman](https://github.com/mayaliberman)
 - @reuvenz1993
 - @asaftvitoga
 - @moriahpopo
