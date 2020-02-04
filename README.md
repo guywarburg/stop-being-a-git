@@ -19,10 +19,12 @@ Slides can be found [here](https://slides.com/guywarburg/stop-being-a-git)
 * [@asaftvito](https://github.com/asaftvito)
 * @moriahpopo
 - @guywarburg
-- @oltiy
+- [@oltiy](https://github.com/oltiy/)
 - @reuvenz1993
+- @adi-bzn
+- [@mayaliberman](https://github.com/mayaliberman)
 - [@adi-bzn](https://github.com/adi-bzn)
 - @mayaliberman
 - @reuvenz1993
 - @asaftvitoga
-- @moriahpopo
+- [@moriahpopo](https://github.com/moriahpopo)
