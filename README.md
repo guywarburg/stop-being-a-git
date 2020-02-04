@@ -12,7 +12,7 @@ ___
 ### Participants
 
 * @guywarburg
-@adi-bzn
+* @adi-bzn
 * @mayaliberman
 * @reuvenz1993
 * @moriahpopo
