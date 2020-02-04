@@ -19,4 +19,4 @@ Slides can be found [here](https://slides.com/guywarburg/stop-being-a-git)
 - @mayaliberman
 - @reuvenz1993
 - @asaftvitoga
-- @moriahpopo
+- [@moriahpopo](https://github.com/moriahpopo)
