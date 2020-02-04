@@ -8,9 +8,13 @@ ___
 
 Slides can be found [here](https://slides.com/guywarburg/stop-being-a-git)
 
+aaa
 ___
 ### Participants
 
 * @guywarburg
+* @adi-bzn
+* @mayaliberman
 * @reuvenz1993
-* @asaftvito
+* @asaftvitoga
+* @moriahpopo
