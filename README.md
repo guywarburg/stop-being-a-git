@@ -2,14 +2,14 @@
 
 A git basics tutorial
 
-___
+---
 
 ## Slides
 
 Slides can be found [here](https://slides.com/guywarburg/stop-being-a-git)
 
-aaa
-___
+---
+
 ### Participants
 
 * @guywarburg
@@ -18,3 +18,11 @@ ___
 * @reuvenz1993
 * [@asaftvito](https://github.com/asaftvito)
 * @moriahpopo
+- @guywarburg
+- @oltiy
+- @reuvenz1993
+- @adi-bzn
+- @mayaliberman
+- @reuvenz1993
+- @asaftvitoga
+- @moriahpopo
