@@ -9,9 +9,9 @@
     <div id="root"></div>
     <script>
       function createPage() {
-        const names = ["guywarburg", "yoni"];
+        const names = [];
         const container = document.getElementById("root");
-        names.forEach(name => {
+        names.forEach((name) => {
           const element = document.createElement("div");
           element.className = "name-block";
           element.innerHTML = name;
