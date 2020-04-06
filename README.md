@@ -21,7 +21,7 @@ And still, I encourage all of you to follow these steps so you will come prepare
 2. Install Git
 
    - Navigate [here](https://git-scm.com/downloads), for windows it might be better [here](https://gitforwindows.org/)
-   - install :)
+   - install - make sure you install git bash as well as git itself, the rest of the options aren't crucial
 
 3. Configure your user in Git Bash
    - Open Git Bash, should be added when installing git.
