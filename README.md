@@ -34,5 +34,6 @@ And still, I encourage all of you to follow these steps so you will come prepare
 ## Slides
 
 Slides can be found [here](https://slides.com/guywarburg/stop-being-a-git)
+testing a commit
 
 ---
