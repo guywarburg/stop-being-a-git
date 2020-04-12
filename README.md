@@ -46,13 +46,13 @@ Slides can be found [here](https://slides.com/guywarburg/stop-being-a-git)
 ---
 =======
 
+- @lapidshay
 - @shaked2606
 - @yotamloe
 - @DimaShmu
 - @yotamloe
 - @DimaShmu
 - @guywarburg - Guy Warburg
-- @halooo - i am a git student
 - dorlebel
 - @guywarburg
 - @zivharoety - ziv haroety
@@ -61,5 +61,6 @@ Slides can be found [here](https://slides.com/guywarburg/stop-being-a-git)
   -@DimaShmu
   dorlebel
 - @guywarburg
+<<<<<<< HEAD
   @noakrams
 >>>>>>> 45f81f7177316bfff468898c4c335b9cf76d89a6
