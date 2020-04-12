@@ -1,5 +1,5 @@
 # Stop being a git
-
+This is some new text I added to the 
 A git workshop.
 During the workshop we will review the basic git commands and understand why and how to use them,
 while keeping industry standards and best-practices.
@@ -41,6 +41,5 @@ Slides can be found [here](https://slides.com/guywarburg/stop-being-a-git)
 - @yotamloe
 - @yotamloe
 
-
-
+- @guywarburg
 ---
