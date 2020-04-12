@@ -38,7 +38,12 @@ Slides can be found [here](https://slides.com/guywarburg/stop-being-a-git)
 ---
 
 ## Participants
+<<<<<<< HEAD
 shaked cohen
 
 
+=======
+
+- @guywarburg
+>>>>>>> ab275374efb4c73cc545cc0ba84e96139500ede9
 ---
