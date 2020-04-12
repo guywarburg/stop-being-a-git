@@ -1,5 +1,6 @@
 # Stop being a git
-This is some new text I added to the 
+
+This is some new text I added to the
 A git workshop.
 During the workshop we will review the basic git commands and understand why and how to use them,
 while keeping industry standards and best-practices.
@@ -31,6 +32,8 @@ And still, I encourage all of you to follow these steps so you will come prepare
 
 ---
 
+i will add here
+
 ## Slides
 
 Slides can be found [here](https://slides.com/guywarburg/stop-being-a-git)
@@ -39,11 +42,12 @@ Slides can be found [here](https://slides.com/guywarburg/stop-being-a-git)
 
 ## Participants
 
+- @shaked2606
+- @yotamloe
+- @DimaShmu
 - @yotamloe
 - @DimaShmu
 - @guywarburg - Guy Warburg
 - @halooo - i am a git student
-dorlebel
+- dorlebel
 - @guywarburg
----
-
