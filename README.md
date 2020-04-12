@@ -58,6 +58,8 @@ trying to modify the Participants list.
   -@DimaShmu
   dorlebel
 - @guywarburg
+<<<<<<< HEAD
   @noakrams
   - @haver-shelanoo
->>>>>>> 41f6300f08fdc55df866e7066acbd10922ca787f
+- @noa_krams
+>>>>>>> master
