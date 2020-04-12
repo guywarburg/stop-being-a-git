@@ -39,8 +39,9 @@ i will add here - shaked cohen :)
 Slides can be found [here](https://slides.com/guywarburg/stop-being-a-git)
 
 ---
+trying to modify the Participants list.
+## Participants 
 
-## Participants
 - @lapidshay
 - @shaked2606
 - @yotamloe
@@ -56,4 +57,8 @@ Slides can be found [here](https://slides.com/guywarburg/stop-being-a-git)
   -@DimaShmu
   dorlebel
 - @guywarburg
+<<<<<<< HEAD
+  @noakrams
+  - @haver-shelanoo
 - @noa_krams
+>>>>>>> master
