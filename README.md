@@ -57,3 +57,4 @@ Slides can be found [here](https://slides.com/guywarburg/stop-being-a-git)
   dorlebel
 - @guywarburg
 - @noa_krams
+- yer-another-dev
