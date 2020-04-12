@@ -1,5 +1,5 @@
 # Stop being a git
-
+This is some new text I added to the 
 A git workshop.
 During the workshop we will review the basic git commands and understand why and how to use them,
 while keeping industry standards and best-practices.
@@ -30,7 +30,7 @@ And still, I encourage all of you to follow these steps so you will come prepare
    - If you are adventurous try configuring an SSH key (easier login) - follow the tutorial [here](https://help.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh)
 
 ---
-
+i will add here
 ## Slides
 
 Slides can be found [here](https://slides.com/guywarburg/stop-being-a-git)
@@ -38,12 +38,10 @@ Slides can be found [here](https://slides.com/guywarburg/stop-being-a-git)
 ---
 
 ## Participants
-<<<<<<< HEAD
-shaked cohen
+-@DimaShmu
 
 
 =======
 
 - @guywarburg
->>>>>>> ab275374efb4c73cc545cc0ba84e96139500ede9
 ---
