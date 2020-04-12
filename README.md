@@ -30,7 +30,7 @@ And still, I encourage all of you to follow these steps so you will come prepare
    - If you are adventurous try configuring an SSH key (easier login) - follow the tutorial [here](https://help.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh)
 
 ---
-
+i will add here
 ## Slides
 
 Slides can be found [here](https://slides.com/guywarburg/stop-being-a-git)
@@ -38,13 +38,12 @@ Slides can be found [here](https://slides.com/guywarburg/stop-being-a-git)
 ---
 
 ## Participants
-<<<<<<< HEAD
+
+- @zivharoety - ziv haroety
+- @shaked2606
+- @yotamloe
 -@DimaShmu
-
-
-=======
-
+dorlebel
 - @guywarburg
->>>>>>> 1d487f73f174ffce8ec266072ee8130d5595db6c
 ---
 @noakrams
