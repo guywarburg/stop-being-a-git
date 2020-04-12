@@ -38,6 +38,7 @@ Slides can be found [here](https://slides.com/guywarburg/stop-being-a-git)
 ---
 
 ## Participants
+- @shaked2606
 <<<<<<< HEAD
 -@DimaShmu
 
