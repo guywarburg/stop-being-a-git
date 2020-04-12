@@ -1,5 +1,6 @@
 # Stop being a git
-This is some new text I added to the 
+
+This is some new text I added to the
 A git workshop.
 During the workshop we will review the basic git commands and understand why and how to use them,
 while keeping industry standards and best-practices.
@@ -30,14 +31,33 @@ And still, I encourage all of you to follow these steps so you will come prepare
    - If you are adventurous try configuring an SSH key (easier login) - follow the tutorial [here](https://help.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh)
 
 ---
-i will add here
+
+i will add here - shaked cohen :)
+
 ## Slides
 
 Slides can be found [here](https://slides.com/guywarburg/stop-being-a-git)
 
 ---
 trying to modify the Participants list.
-## Participants
+## Participants 
 
-- @zivharoety 
-
+- @lapidshay
+- @shaked2606
+- @yotamloe
+- @DimaShmu
+- @yotamloe
+- @DimaShmu
+- @guywarburg - Guy Warburg
+- @halooo - i am a git student
+- dorlebel
+- @guywarburg
+- @zivharoety - ziv haroety
+- @shaked2606
+- @yotamloe
+  -@DimaShmu
+  dorlebel
+- @guywarburg
+  @noakrams
+  - @haver-shelanoo
+>>>>>>> 41f6300f08fdc55df866e7066acbd10922ca787f
