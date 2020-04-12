@@ -36,13 +36,8 @@ i will add here
 Slides can be found [here](https://slides.com/guywarburg/stop-being-a-git)
 
 ---
-
+trying to modify the Participants list.
 ## Participants
 
-- @zivharoety - ziv haroety
-- @shaked2606
-- @yotamloe
--@DimaShmu
-dorlebel
-- @guywarburg
----
+- @zivharoety 
+
