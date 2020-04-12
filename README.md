@@ -48,7 +48,6 @@ Slides can be found [here](https://slides.com/guywarburg/stop-being-a-git)
 - @yotamloe
 - @DimaShmu
 - @guywarburg - Guy Warburg
-- @halooo - i am a git student
 - dorlebel
 - @guywarburg
 - @zivharoety - ziv haroety
