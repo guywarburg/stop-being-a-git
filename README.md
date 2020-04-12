@@ -1,5 +1,10 @@
 # Stop being a git
+<<<<<<< HEAD
 This is some new text I added to the 
+=======
+
+This is some new text I added to the
+>>>>>>> 45f81f7177316bfff468898c4c335b9cf76d89a6
 A git workshop.
 During the workshop we will review the basic git commands and understand why and how to use them,
 while keeping industry standards and best-practices.
@@ -31,6 +36,8 @@ And still, I encourage all of you to follow these steps so you will come prepare
 
 ---
 
+i will add here - shaked cohen :)
+
 ## Slides
 
 Slides can be found [here](https://slides.com/guywarburg/stop-being-a-git)
@@ -41,9 +48,28 @@ Slides can be found [here](https://slides.com/guywarburg/stop-being-a-git)
 <<<<<<< HEAD
 Sharon
 
+<<<<<<< HEAD
 
 =======
 
 - @guywarburg
 >>>>>>> 1d487f73f174ffce8ec266072ee8130d5595db6c
 ---
+=======
+- @shaked2606
+- @yotamloe
+- @DimaShmu
+- @yotamloe
+- @DimaShmu
+- @guywarburg - Guy Warburg
+- @halooo - i am a git student
+- dorlebel
+- @guywarburg
+- @zivharoety - ziv haroety
+- @shaked2606
+- @yotamloe
+  -@DimaShmu
+  dorlebel
+- @guywarburg
+  @noakrams
+>>>>>>> 45f81f7177316bfff468898c4c335b9cf76d89a6
